@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/china.png</file>
+        <file>img/us.png</file>
+        <file>img/grass.jpg</file>
+    </qresource>
+    <qresource prefix="/languages">
+        <file alias="en">pos-app-en.qm</file>
+        <file alias="zh">pos-app-zh.qm</file>
+    </qresource>
+</RCC>

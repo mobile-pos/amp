@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/languages">
+        <file alias="en">pos-app-en.qm</file>
+        <file alias="zh">pos-app-zh.qm</file>
+    </qresource>
+</RCC>
