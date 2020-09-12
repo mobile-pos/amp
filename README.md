@@ -4,12 +4,13 @@ app for POS with mobile 互联网+POS
 基于美国中餐馆传统POS软件框架进行架构升级
 
 ## 硬件架构已支持: 
-**X86 (windows 10, ubuntu 18.04)**
-**arm64-v8a (android)**
+**X86 (windows 10, ubuntu 18.04)**<br/>
+**arm64-v8a (android)**<br/>
 
 ## 系统软件架构：
-**1。支持云服务**
-**2。支持本地服务**
+**1。支持云服务**<br/>
+**2。支持本地服务**<br/>
+**3。支持云与本地子母双服务**<br/>
 
 ## 功能上已实现：
 **1。前台堂吃点餐**<br/>
@@ -37,6 +38,9 @@ POS点餐界面 <br/>![POS1](http://cnshop.aiwaiter.net/images/pos-1.png)<br/>
 PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad-1.png)<br/>
 手机点餐界面 <br/> ![MOBILE1](http://cnshop.aiwaiter.net/images/mobile-1.png) <br/>
 
-## 更多功能及在线演示，请关注微信公主号：智慧POS服务 <br/>
-  或 skype: 7188785818
+## 在线演示:<br/>
+  demo.cnshop.aiwaiter.net
+## 更多功能咨询：<br/>
+  **咨询 skype: 7188785818 **<br/>
+  **咨询 QQ： 3550147 **<br/>
 
