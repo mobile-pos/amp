@@ -484,7 +484,7 @@ bool InstallWizard::setting() {
     conf.write( QString("local-web-server=https://%1\n").arg(server).toLocal8Bit());
     conf.write( QString("redis-server=%1\n").arg(server).toLocal8Bit());
     conf.write( QString("redis-port=%1\n").arg(6379).toLocal8Bit());
-    conf.write( QString("redis-auth=pos-us#sz@2019\n").toLocal8Bit());
+    conf.write( QString("redis-auth=********\n").toLocal8Bit());
     conf.close();
 
     return true;
