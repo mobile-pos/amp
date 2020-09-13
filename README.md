@@ -45,6 +45,7 @@ PC线上点餐  demo.cnshop.aiwaiter.net<br/>
 <br/>
 AMP(for win) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-win32-for-cn.0.7.zip （需要解压到c:\目录下）<br/>
 AMP(for android) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp.0.2.apk<br/>
+AMP(for ubuntu) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-ubuntu.0.10 （需要安装Qt 5.13)<br/>
 
 ## 更多功能咨询：<br/>
 **咨询 skype: 7188785818 **<br/>
