@@ -22,7 +22,7 @@ extern QString WORKDIR;
 
 extern QString REDISSERVER; // "127.0.0.1"
 extern int REDISPORT; // 6379
-extern QString REDISAUTH; // pos-us#sz@2019
+extern QString REDISAUTH; //
 extern int gRID;
 
 extern QString LOCALWEBSERVER; // "https://cnshop.aiwaiter.net:443"
