@@ -23,7 +23,7 @@ extern QList<QString> _kitchPrinter; //厨房打印机
 //#define REDISSERVER "cnshop.aiwaiter.net"
 extern QString REDISSERVER; // "127.0.0.1"
 extern int REDISPORT; // 6379
-extern QString REDISAUTH; //"pos-us#sz@2019"
+extern QString REDISAUTH; //
 //采用云上服务器
 extern QString LOCALWEBSERVER; // "https://cnshop.aiwaiter.net:443"
 
