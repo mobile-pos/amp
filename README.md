@@ -41,7 +41,10 @@ PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad-
 
 ## 在线演示:<br/>
 PC线上点餐  demo.cnshop.aiwaiter.net<br/>
-AMP 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-win32-for-cn.0.7.zip<br/>
+手机扫描：<br/> ![scan](http://cnshop.aiwaiter.net/images/demo-qrcode.png)<br/>
+<br/>
+AMP(for win) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-win32-for-cn.0.7.zip （需要解压到c:\目录下）<br/>
+AMP(for android) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp.0.2.apk<br/>
 
 ## 更多功能咨询：<br/>
 **咨询 skype: 7188785818 **<br/>
