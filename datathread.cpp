@@ -32,7 +32,7 @@ QList<QString> _kitchPrinter; //厨房打印机
 
 QString REDISSERVER ; //缓存地址，可以是本地，也可以是云端
 int REDISPORT = 6379; // redis port
-QString REDISAUTH = "pos-us#sz@2019"; // redis auth;
+QString REDISAUTH = "********"; // redis auth;
 
 QString LOCALWEBSERVER; //本地服务地址，可以是本地，也可以是云端
 
