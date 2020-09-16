@@ -35,9 +35,9 @@ app for Mobile POS 互联网+POS
 **20。支持小费录入**<br/>
 **21。支持菜品管理（支持售罄，特价，和推荐设置）**<br/>
 
-POS点餐界面 <br/>![POS1](http://cnshop.aiwaiter.net/images/pos.jpg)<br/>
-PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad.jpg)<br/>
-手机点餐界面 <br/> ![MOBILE1](http://cnshop.aiwaiter.net/images/phone.jpg) <br/>
+POS点餐界面 <br/>![POS1](http://cnshop.aiwaiter.net/images/pos.jpg =800x600)<br/>
+PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad.jpg =800x600)<br/>
+手机点餐界面 <br/> ![MOBILE1](http://cnshop.aiwaiter.net/images/phone.jpg =300x500) <br/>
 
 ## 在线演示:<br/>
 PC线上点餐  demo.cnshop.aiwaiter.net<br/>
