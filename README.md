@@ -35,9 +35,9 @@ app for Mobile POS 互联网+POS
 **20。支持小费录入**<br/>
 **21。支持菜品管理（支持售罄，特价，和推荐设置）**<br/>
 
-POS点餐界面 <br/>![POS1](http://cnshop.aiwaiter.net/images/pos-1.png)<br/>
-PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad-1.png)<br/>
-手机点餐界面 <br/> ![MOBILE1](http://cnshop.aiwaiter.net/images/mobile-1.png) <br/>
+POS点餐界面 <br/>![POS1](http://cnshop.aiwaiter.net/images/pos.jpg)<br/>
+PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad.jpg)<br/>
+手机点餐界面 <br/> ![MOBILE1](http://cnshop.aiwaiter.net/images/phone.jpg) <br/>
 
 ## 在线演示:<br/>
 PC线上点餐  demo.cnshop.aiwaiter.net<br/>
@@ -48,9 +48,8 @@ AMP(for android) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp.0.2.ap
 AMP(for ubuntu) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-ubuntu.0.10 （需要安装Qt 5.13)<br/>
 
 ## 更多功能咨询：<br/>
-**咨询 skype: 7188785818 **<br/>
-**咨询 QQ： 3550147 **<br/>
-**Email: snnxv@126.com **<br/>
+咨询 QQ： 3550147 <br/>
+Email: snnxv@126.com <br/>
 
 
 
