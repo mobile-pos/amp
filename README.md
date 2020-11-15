@@ -47,6 +47,8 @@ AMP(for win) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-win32-
 AMP(for android) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp.0.2.apk<br/>
 AMP(for ubuntu) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-ubuntu.0.10 （需要安装Qt 5.13)<br/>
 
+POS软件云上演示: http://www.aiwaiter.net:18080 (美东服)，访问密码: demoonline
+
 ## 更多功能咨询：<br/>
 咨询 QQ： 3550147 <br/>
 Email: snnxv@126.com <br/>
