@@ -4,7 +4,7 @@ app for Mobile POS 互联网+POS
 基于美国中餐馆传统POS软件框架进行架构升级
 
 ## 硬件架构已支持: 
-**X86 (windows 10, ubuntu 18.04)**<br/>
+**X86 (windows 10, ubuntu 18.04, macOS)**<br/>
 **arm64-v8a (android)**<br/>
 
 ## 系统软件架构：
@@ -35,6 +35,8 @@ app for Mobile POS 互联网+POS
 **20。支持小费录入**<br/>
 **21。支持菜品管理（支持售罄，特价，和推荐设置）**<br/>
 
+POS软件云上演示: http://www.aiwaiter.net:18080 (美东服)，访问密码: demoonline
+
 POS点餐界面 <br/>![POS1](http://cnshop.aiwaiter.net/images/pos.jpg)<br/>
 PAD堂吃移动点餐界面 <br/> ![PAD1](http://cnshop.aiwaiter.net/images/pad2.jpg) <br/>
 手机点餐界面 <br/> ![MOBILE1](http://cnshop.aiwaiter.net/images/phone.jpg) <br/>
@@ -47,7 +49,6 @@ AMP(for win) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-win32-
 AMP(for android) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp.0.2.apk<br/>
 AMP(for ubuntu) 下载地址: http://cnshop.aiwaiter.net/images/apps/amp-for-ubuntu.0.10 （需要安装Qt 5.13)<br/>
 
-POS软件云上演示: http://www.aiwaiter.net:18080 (美东服)，访问密码: demoonline
 
 ## 更多功能咨询：<br/>
 咨询 QQ： 3550147 <br/>
